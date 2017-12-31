@@ -1,2 +1,4 @@
 # follows
-A log of who I've followed each year.
+
+At the start of each year, I usually unfollow everyone and start again.
+
